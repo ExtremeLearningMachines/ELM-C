@@ -4,7 +4,9 @@ The code presented in this package implements the Extreme Learning Machines algo
 
 G.-B. Huang, H. Zhou, X. Ding, and R. Zhang, "Extreme Learning Machine for Regression and Multiclass Classification", IEEE Transactions on Systems, Man, and Cybernetics - Part B: Cybernetics,  vol. 42, no. 2, pp. 513-529, 2012.
 
-I do not claim to be author of the algorithm. Only the code has been developed by me.
+Vladislavs Dovgalecs from University of Rouen, Italy, for the kind contribution of C/C++ version of ELM, A blog entry describing briefly the algorithm and its main benefits as well as a link to the code can be found at http://dovgalecs.com/blog/extreme-learning-machine-matlab-mex-implementation/
+
+Vladislavs Dovgalecs do not claim to be author of the algorithm. Only the code has been developed by Vladislavs Dovgalecs.
 
 --------------------------------------------
 CONTENTS
